@@ -1,13 +1,26 @@
-# Frt1:Future ready talent project by sai krishna.
-this is my frt project.
-
-# azure link 
-https://orange-coast-0af95e710.2.azurestaticapps.net/
-
-# screenshots of web app
-![Screenshot 2022-10-31 221941](https://user-images.githubusercontent.com/105770061/199064497-9c2ec725-b0bc-4a76-a8c4-75c13225af9c.png)
-![Screenshot 2022-10-31 222018](https://user-images.githubusercontent.com/105770061/199064569-b00871ee-a200-4f0a-909f-dec4bd402933.png)
-![Screenshot 2022-10-31 222236](https://user-images.githubusercontent.com/105770061/199064596-7681d419-6b16-40e7-8fdd-3a4c2dbbfeaf.png)
+## Frt1:Future ready talent project by sai krishna.
 
 
+## My website link: https://orange-coast-0af95e710.2.azurestaticapps.net
 
+## Home page
+![Screenshot 2022-10-31 221941](https://user-images.githubusercontent.com/105770061/199085715-b57b49a4-c48b-4dd8-a963-e3cba34b874f.png)
+![Uploading Screenshot 2022-11-01 000258.png…]()
+![Uploading Screenshot 2022-11-01 000358.png…]()
+
+
+## About us
+![Screenshot 2022-10-31 222018](https://user-images.githubusercontent.com/105770061/199085453-6d378f3f-0fb3-4418-8b7b-feaf6b12027b.png)
+![Screenshot 2022-11-01 000513](https://user-images.githubusercontent.com/105770061/199085572-79f998b1-63e4-4f8b-8bb3-708c8e9c2c53.png)
+
+
+## Shop now
+![Screenshot 2022-10-31 222236](https://user-images.githubusercontent.com/105770061/199085375-7e3c1976-09e4-494a-a482-ec48e4c1a17c.png)
+![Screenshot 2022-11-01 000607](https://user-images.githubusercontent.com/105770061/199085396-3ffd60e2-ef0d-4d20-9266-f8518c2de5d7.png)
+
+
+## Contact us
+![Screenshot 2022-11-01 000642](https://user-images.githubusercontent.com/105770061/199085337-c2cf9af5-6c0d-4580-974f-a59da032ae1d.png)
+
+## azure portal screen shot
+![Screenshot 2022-11-01 000811](https://user-images.githubusercontent.com/105770061/199085310-6b43e3aa-b406-4632-9cec-07aa57d9d681.png)
