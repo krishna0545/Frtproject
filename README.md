@@ -1,4 +1,4 @@
-# Frtproject
+# Frt1:Future ready talent project by sai krishna.
 this is my frt project.
 
 # azure link 
